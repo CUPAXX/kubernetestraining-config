@@ -10,4 +10,4 @@ images:
   newName: cupaxxhd/hourly-image
 - name: cupaxxhd/hourly-image
   newName: cupaxxhd/hourly-image
-  newTag: "4.9"
+  newTag: e79af4e0b8e1323ccb9608cb1726a181e7b04e8a
